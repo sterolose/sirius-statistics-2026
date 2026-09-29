@@ -27,7 +27,7 @@ conda env create -f environment.yml
 Установите Git-фильтр для текущего репозитория:
 
 ```bash
-nbstripout --install
+conda run -n stats nbstripout --install
 ```
 
 Чтобы Git также не отслеживал изменения окружения и версии Python в метаданных ноутбуков:
