@@ -164,7 +164,7 @@ dependencies:
   - numpy=2.5.3=py314hd3a7d6b_0
   - openjpeg=2.5.4=heb1ab33_2
   - openldap=2.6.13=hbde042b_0
-  - openssl=3.6.4=h781a0a9_0
+  - openssl=3.6.5=h781a0a9_0
   - overrides=7.7.0=pyhd8ed1ab_1
   - packaging=26.3=pyhc364b38_0
   - pandas=3.0.6=np2py314h9e1d7c2_0
@@ -206,6 +206,7 @@ dependencies:
   - rfc3986-validator=0.1.1=pyh9f0ad1d_0
   - rfc3987-syntax=1.1.0=pyhe01879c_1
   - rpds-py=2026.6.3=py314h7e8cd81_2
+  - scikit-posthocs=0.16.1=pyhd8ed1ab_0
   - scipy=1.18.1=py314h36f0660_1
   - seaborn=0.13.2=hd8ed1ab_3
   - seaborn-base=0.13.2=pyhd8ed1ab_3
