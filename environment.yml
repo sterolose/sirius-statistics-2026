@@ -1,6 +1,7 @@
 name: stats
 channels:
   - conda-forge
+  - file:///home/dmitry/.local/share/conda-pypi
 dependencies:
   - _openmp_mutex=4.5=20_gnu
   - _python_abi3_support=1.0=hd8ed1ab_3
@@ -183,6 +184,7 @@ dependencies:
   - pthread-stubs=0.4=h7cc23a3_1004
   - ptyprocess=0.7.0=pyhd8ed1ab_1
   - pure_eval=0.2.4=pyhd8ed1ab_0
+  - pyartool=0.1.0=pypi_0
   - pycparser=3.0=pyhcf101f3_0
   - pygments=2.21.0=pyhcf101f3_0
   - pyparsing=3.3.3=pyh5ded981_0
